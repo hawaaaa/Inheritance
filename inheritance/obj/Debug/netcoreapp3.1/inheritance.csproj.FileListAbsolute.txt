@@ -1,0 +1,13 @@
+C:\Users\Dynabook\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.exe
+C:\Users\Dynabook\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.deps.json
+C:\Users\Dynabook\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.json
+C:\Users\Dynabook\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.dev.json
+C:\Users\Dynabook\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.dll
+C:\Users\Dynabook\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.pdb
+C:\Users\Dynabook\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.csprojAssemblyReference.cache
+C:\Users\Dynabook\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfoInputs.cache
+C:\Users\Dynabook\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfo.cs
+C:\Users\Dynabook\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Dynabook\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.dll
+C:\Users\Dynabook\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.pdb
+C:\Users\Dynabook\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.genruntimeconfig.cache
